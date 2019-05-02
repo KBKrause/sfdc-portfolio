@@ -22,8 +22,11 @@
     <lightning:tab label="Projects">
       Two Content !
     </lightning:tab>
-    <lightning:tab label="Item Three">
-      Three Content !
+    <lightning:tab label="Contact">
+      <img src="https://img.icons8.com/color/48/000000/gmail.png" /><br />
+      <img src="https://img.icons8.com/color/48/000000/linkedin.png" /><br />
+      <img src="https://img.icons8.com/material-rounded/48/000000/github.png" /><br />
+      <img src="https://img.icons8.com/color/48/000000/salesforce.png" />
     </lightning:tab>
   </lightning:tabset>
 
@@ -77,4 +80,5 @@
     </lightning:layout>
   </div>
 
+  Non-Salesforce icons provided by <a href="https://icons8.com/">icons8</a>
 </aura:component>
